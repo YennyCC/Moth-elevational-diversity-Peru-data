@@ -1,0 +1,21 @@
+{
+  "upload_type": "dataset",
+  "title": "Data for: Contrasting elevational diversity patterns across three Neotropical moth lineages along an Amazon–Andes gradient",
+  "description": "<p>Abundance data of Arctiinae, Saturniidae and Sphingidae moths sampled with standardised light towers at 26 forest plots along an elevational gradient (245–3,588 m a.s.l.) in southeastern Peru in two campaigns (September–November 2022 and April–June 2023), with plot coordinates, elevation and environmental variables (mean annual temperature, mean annual precipitation, leaf net primary productivity). See README.md for a description of all files and variables.</p>",
+  "creators": [
+    {"name": "Correa-Carmona, Yenny", "affiliation": "Friedrich-Schiller-Universität Jena; Universidad de Antioquia"},
+    {"name": "Holzmann, Kim L.", "affiliation": "University of Würzburg"},
+    {"name": "Alonso-Alonso, Pedro", "affiliation": "University of Würzburg"},
+    {"name": "Pinos, Andrea", "affiliation": "Ludwig-Maximilians-Universität München"},
+    {"name": "Yon, Felipe", "affiliation": "Universidad Peruana Cayetano Heredia"},
+    {"name": "Weinhold, Arne", "affiliation": "Ludwig-Maximilians-Universität München"},
+    {"name": "Steffan-Dewenter, Ingolf", "affiliation": "University of Würzburg"},
+    {"name": "Keller, Alexander", "affiliation": "Ludwig-Maximilians-Universität München"},
+    {"name": "Peters, Marcell K.", "affiliation": "University of Bremen"},
+    {"name": "Brehm, Gunnar", "affiliation": "Friedrich-Schiller-Universität Jena"}
+  ],
+  "keywords": ["Arctiinae", "Saturniidae", "Sphingidae", "Lepidoptera", "elevational gradient", "beta diversity", "Peru", "Andes"],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng"
+}
